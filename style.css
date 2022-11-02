@@ -302,11 +302,3 @@ html{
     align-items: center; /* Centering Vertically */
     padding-bottom: 10px;
 }
-.member-quotes{ /* Member Quotes */
-    font-family: "Times New Roman", Times, serif;
-    font-size: 18px;
-    color: #07f7eb;
-    display: flex;
-    justify-content: center; 
-    align-items: center; 
-}
