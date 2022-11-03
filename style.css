@@ -174,7 +174,7 @@ html{
     width: 1200px;
     margin-left: auto; 
     margin-right: auto;
-    margin-top: 50px;
+    margin-top: 30px;
     height: 380px;
 }
 .table thead{  /* Table Head Backgound Color */
@@ -218,7 +218,7 @@ html{
     background: -webkit-linear-gradient(left, #000428 30%, #004e92);  
 } 
 .About-title{ /* Title */
-    padding-top: 30px;
+    padding-top: 70px;
     padding-bottom: 10px;
     text-align: center;
     justify-content: center;
@@ -240,7 +240,7 @@ html{
     background:#061993;
     padding: 20px 10px;
     border-radius: 5px;
-    height:440px;
+    height:400px;
 }
 .Team_Content_Box .team_member .member_img{  /* Member Image */
     background: #07f7eb;  
